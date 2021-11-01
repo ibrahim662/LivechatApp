@@ -7,7 +7,7 @@ The goal of this project is to build a Livechatapp.
 https://618045771c7a7d00c9460c37--livechatappibra.netlify.app/
 
 ## How to run it in local?
-+ Clone this project ( $~git@github.com:ibrahim662/Weather-Website.git ) 
++ Clone this project ( $~git clone git@github.com:ibrahim662/LivechatApp.git) 
 
 ### Open two teminals ( for Client and Server side )
 #### Client side
